@@ -1,0 +1,12 @@
+This file is just my understandings on GIT commands and its usage.These commands are executed in GIT_BASH.exe
+
+Git init -                                            Creates the repository in the local machine.Its default location for creating a repo is the C Drive.In some machines it ll throw us the Permission denied exception.
+
+To Overcome Permission denied exception , use the below command. 
+Git init /D(Drive_Name)/Folder_Name/Repository_Name - Command creates a Repository in the user desiered location.
+
+Git Help -                                            Gives info about the commands that we use in git and its description.
+
+Cd ~ -                                                Points to the local Repository.
+
+cd /f(User Specified Path) -                          Points to the desired path of the user.
